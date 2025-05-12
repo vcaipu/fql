@@ -2,9 +2,9 @@
 
 This repository contains two subdirectories:
 
-**JAX**: Our experiments changing the distillation loss metric, built on top of the original implementation, found [here](https://arxiv.org/abs/2502.02538)
+**JAX**: Our experiments changing the distillation loss metric, built on top of the original implementation, found [here](https://github.com/seohongpark/fql)
 
-**PyTorch**: The latest iteration we tried to implement the FQL algorithm in PyTorch. This implementation very closely follows the original JAX code structure, again found [here](https://arxiv.org/abs/2502.02538), but uses PyTorch as the backend.
+**PyTorch**: The latest iteration we tried to implement the FQL algorithm in PyTorch. This implementation very closely follows the original JAX code structure, again found [here](https://github.com/seohongpark/fql), but uses PyTorch as the backend.
 
 ## Overview
 
